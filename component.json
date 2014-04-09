@@ -1,0 +1,14 @@
+{
+  "name": "aria-roles",
+  "repo": "stephenmathieson/aria-roles",
+  "description": "A list of all ARIA roles",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
