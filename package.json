@@ -1,8 +1,17 @@
 {
   "name": "aria-roles",
+  "main": "index.js",
   "version": "0.0.0",
   "dependencies": {
-    "superagent": "^0.17.0",
-    "cheerio": "^0.15.0"
-  }
+    "superagent": "~0.17.0",
+    "cheerio": "~0.15.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/aria-roles.git"
+  },
+  "private": true
 }
