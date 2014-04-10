@@ -1,7 +1,7 @@
 {
   "name": "aria-roles",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "superagent": "~0.17.0",
     "cheerio": "~0.15.0"
